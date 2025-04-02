@@ -1,0 +1,164 @@
+#nav
+{
+    height: 7vh;
+    width: 100%;
+    /* border: 2px solid; */
+    display: flex;
+    /* background-color: black; */
+    position: fixed;
+    color: white;
+    z-index: 6;
+    /* border: 2px solid red; */
+}
+#logo
+{
+    height: 45px;
+    width: 50px; 
+    margin: 5px 12.5vw;
+    z-index: 7;
+    position: relative;
+    /* border: 2px solid red; */
+
+}
+#logo:hover
+{
+cursor: pointer;
+
+}
+.item
+{
+ margin: 15px 20px;
+ color: white;
+z-index: 8;
+}
+.item:hover
+{
+    cursor: pointer;
+}
+#l2
+{
+    display: flex;
+    /* border: 2px solid; */
+    height: 4vh;
+    width: 50%;
+    margin-left: 6vw;
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+#l2 ul
+{
+    display: flex;
+    list-style: none;
+}
+#iot1:hover
+{
+    border-bottom: 2px solid #E2A330;
+    padding-bottom: 25px;
+}
+#iot2:hover
+{
+    border-bottom: 2px solid #E2A330;
+    padding-bottom: 25px;
+}
+#iot3:hover
+{
+    border-bottom: 2px solid #E2A330;
+    padding-bottom: 25px;
+}
+#iot4:hover
+{
+    border-bottom: 2px solid #E2A330;
+    padding-bottom: 25px;
+}#iot5:hover
+{
+    border-bottom: 2px solid #E2A330;
+    padding-bottom: 25px;
+}
+#l3
+{
+    color: white;
+    /* border: 2px solid blue; */
+    position: relative;
+    right: 10vw;
+}
+.icons
+{
+    margin: 15px 20px;
+    font-size: 20px;
+}
+.icons:hover
+{
+cursor: pointer;
+}
+.nvin {
+    margin: 10px;
+    /* cursor: pointer; Add cursor pointer to indicate clickable */
+  }
+  
+  #dropdown {
+    width: 100%;
+    height: 60vh;
+    position: absolute;
+    /* top: 10vh; Position below the navbar */
+    /* padding-top: 10vh; */
+    left: 0;
+    transition: 1s;
+    background-color:#040101;
+    opacity: 0.9;
+    /* display: none; Initially hide the dropdown */
+    z-index: 1;
+  }
+  
+  .cili
+{
+    position: relative;
+    left:35%;
+    /* width: 10vw;
+    height: 0vh; */
+}
+
+#tifny{
+    /* border: 2px solid rgb(245, 235, 235); */
+    padding-top: 10vh;
+
+}
+#tifny1{
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    border-bottom: 1px solid white;
+    padding-bottom: 20px;
+    width: 230px;
+}
+
+.learn{
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 30px;
+    width: 190px;
+}
+.learn:hover{
+    color:#E2A330;
+    cursor: pointer;
+}
+#tifny2{
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    border-bottom: 1px solid white;
+    padding-bottom: 20px;
+    width: 230px;
+}
+

@@ -1,0 +1,18 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+/* Ensure the scroll container is scrollable */
+.scroll-container {
+  scroll-snap-type: y mandato2ry;
+  overflow-y: scroll;
+  height: 100vh; /* Ensure it takes up the full viewport height */
+}
+
+/* Apply scroll snap alignment to child sections */
+.scroll-container > * {
+  scroll-snap-align: start; /* Start or center based on your preference */
+  height: 100vh; /* Each section takes up the full viewport height */
+}

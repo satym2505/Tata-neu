@@ -1,0 +1,43 @@
+#pic1
+{
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)),url('https://www.tata.com/content/dam/tata/images/heritage/desktop/heritage_timeline2_banner_desktop_1920x1080.jpg');
+    background-size: cover;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid red; */
+}
+#inp
+{
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    width: 38vw;
+    /* border: 2px solid blue; */
+    /* transform: translate(50%);center me lane ke liye */
+    margin-bottom:30px;
+    text-align: center;
+    font-family:  "Lato", sans-serif;
+    margin-left: 20px;
+    }
+#inp h1
+{
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 52px;
+    line-height: 50px;
+}
+#pa
+{
+    color: #E2A330;
+    font-size: 20px;
+    position: relative;
+    /* border: 2px solid black; */
+    top: 5px;
+    left: 10px;
+
+}
+

@@ -1,0 +1,371 @@
+
+#sec3
+{
+    /* border: 2px solid; */
+    height: 115vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EFEFEF;
+    position: relative;
+    
+    
+}
+#sec4
+{
+    /* border: 2px solid green; */
+    height: 100vh;
+    width: 90%;
+    display: flex;
+    position: relative;
+    margin-left: 100px;
+    top: 0px
+}
+
+#sec31
+{
+    /* border: 2px solid ; */
+    height: 100vh;
+    width: 32%;
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 5px 2px rgba(161, 159, 140, 1);
+    -moz-box-shadow: 0px 0px 5px 2px rgba(161, 159, 140, 1);
+    box-shadow: 0px 0px 5px 2px rgba(161, 159, 140, 1);
+   
+}
+#sec31:hover
+{
+cursor: pointer;
+}
+#sect1
+{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    rotate: 45deg;
+    top: 50.5%;
+    left: 2%;
+}
+#sect2
+{
+    /* border: 2px solid pink; */
+    height: 47%;
+    width: 100%;
+    position: relative;
+    
+}
+#cr1
+{
+    color: #4287D4;
+    line-height: 24px;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 500;
+    padding-left:25px;
+    padding-top: 40px;
+    font-family: lato, sans-serif;
+    
+
+}
+#sect2 h1
+{
+    color: #3F4548;
+    line-height: 20px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 575;
+    font-family: lato, sans-serif;
+    margin-top: 40px;
+    margin-left: 30px;
+    
+}
+#cr2
+{
+
+    color: #3F4548;
+    line-height: 20px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 50;
+    font-family: lato, sans-serif;
+    margin-top: 25px;
+    margin-left: 55px;
+    border-left:2px solid #E59A09 ;
+    padding-left: 7px;
+    width: 63%;
+}
+#aree1
+{
+    font-size: 40px;
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    color: #E59A09;
+    /* border: 2px solid; */
+}
+
+
+#sec32
+{
+/* border: 2px solid olive; */
+width: 58%;
+height: 48vh;
+position: absolute;
+left: 35%;
+background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://www.tata.com/content/dam/tata/images/careers/desktop/tic2023_2xcard_desktop_752x362.jpg');
+-webkit-box-shadow: 0px 0px 5px 2px rgba(161, 159, 140, 1);
+    -moz-box-shadow: 0px 0px 5px 2px rgba(161, 159, 140, 1);
+    box-shadow: 0px 0px 5px 2px rgba(161, 159, 140, 1);
+   
+
+}
+#sec32:hover
+{
+cursor: pointer;
+}
+#tr1
+{
+    margin-top: 25px;
+    margin-left: 30px;
+    color: white;
+    font-family: Lato, sans-serif;
+    line-height: 24px;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    
+}
+
+#bxb
+{
+    /* border: 2px solid ; */
+    width: 45%;
+    height: 35%;
+    background-color: #184550;
+    color: aliceblue;
+    font-family: Lato, sans-serif;
+    line-height: 24px;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 100;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 30px;
+
+}
+#bxb span
+{
+position: absolute;
+bottom: 20px;
+left: 70px;
+border-left: 1px solid;
+font-size: 15px;
+font-style: italic;
+padding-left: 5px;
+}
+#tr2
+{
+    padding: 30px 40px;
+}
+#aree2{
+font-size: 40px;
+position: absolute;
+bottom: 10px;
+right: 40px;
+color: white;
+}
+#sec33
+{
+    /* border: 2px solid blue;  */
+    width: 27%;
+    height: 47vh;
+    position: absolute;
+    bottom: 0;
+    right: 38%;
+    font-family: Lato, sans-serif;
+    -webkit-box-shadow: 0px 0px 5px 2px rgba(161, 159, 140, 1);
+    -moz-box-shadow: 0px 0px 5px 2px rgba(161, 159, 140, 1);
+    box-shadow: 0px 0px 5px 2px rgba(161, 159, 140, 1);
+    
+
+}
+#sec33:hover
+{
+cursor: pointer;
+}
+#pin
+{
+    padding: 30px 25px;    
+    line-height: 24px;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 100;
+    color: #4287D4;
+    
+}
+#peop
+{
+    padding: 0px 120px;
+    font-size: 90px;
+}
+#nu
+{
+padding-left: 75px;
+position: absolute;
+bottom: 165px;
+color: #2B78D4;
+font-size: 45px;
+font-weight: 550;
+}
+#epl
+{
+    padding:   17px 85px;    
+    line-height: 24px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    /* border: 2px solid; */
+    width: 50%;
+    justify-content: center;
+       
+}
+#epl span
+{
+    padding-left: 60px;
+}
+#aree3
+{
+    font-size: 40px;
+    position: absolute;
+    bottom: 10px;
+    right: 20px; 
+    color: #E59A09;  
+}
+#sec34
+{
+    /* border: 2px solid orange; */
+    width: 29%;
+    height: 47vh;
+    position: absolute;
+    bottom: 0px;
+    right: 7%;
+    background-color: #307FE2;
+    -webkit-box-shadow: 0px 0px 5px 2px rgba(161, 159, 140, 1);
+    -moz-box-shadow: 0px 0px 5px 2px rgba(161, 159, 140, 1);
+    box-shadow: 0px 0px 5px 2px rgba(161, 159, 140, 1);
+   
+ 
+}
+#sec3:hover
+{
+cursor: pointer;
+}
+#imgr
+{
+    height:52vh;
+    width: 100%;
+}
+#twstw{
+    
+    height: 50%;
+    width: 63%;
+    margin: 20px 80px;
+}
+.tws2
+{ 
+    
+    font-family: "Lato", sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    font-style: normal;
+    line-height: 21px;
+    color: white;
+}
+.lin
+{
+    border-left: 2px solid white;
+    margin-top: 10px;
+    padding-left: 7px;
+    
+}
+.lin span
+{
+    font-style: italic;
+    font-size: 10px;
+}
+#sid3 p
+{
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    font-style: normal;
+    line-height: 21px;
+    color: white;
+    padding-top:30px;
+    padding-left: 30px;
+}
+#sid3 h1
+{
+    color: white;
+    font-family: "Lato", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 21px;
+    color: white;
+    padding-top:30px;
+    padding-left: 50px;
+}
+span.swiper-pagination-bullet{
+    width: 5px; /* Adjust the width of the square */
+    height: 6px; /* Adjust the height of the square */
+    border: 1px solid #fff; /* Change the border color to white */
+    border-radius: 0; /* Ensure the square has sharp corners */
+    background-image: transparent; /* Remove the background color */
+    opacity: 1;
+}
+
+span.swiper-pagination-bullet-active {
+    background-color: #fff; /* Change the active pagination color to white */
+}
+#aree4
+{
+    font-size: 40px;
+    position: absolute;
+    bottom: 10px;
+    right: 20px; 
+    color:white;  
+}
+#Career
+{
+
+    border: 2px solid white; 
+    position: absolute;
+    z-index: 9;
+    left: 90px;
+    top: 20px;
+    background-color: rgba(255, 255, 255, 0.897) ;
+    width: fit-content;
+    height: 35px;
+    padding-top: 17px;
+    padding-left: 14px;
+    padding-right: 14px;
+    margin: 5px;
+    -webkit-box-shadow: 0px 0px 5px 2px rgba(161, 159, 161, 1);
+    -moz-box-shadow: 0px 0px 5px 2px rgba(161, 159, 161, 1);
+    box-shadow: 0px 0px 5px 2px rgba(161, 159, 161, 1);
+    font-family: "Lato", sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    font-style: normal;
+    line-height: 22px;
+    color: #454545;
+    
+   
+   
+}
+
+
